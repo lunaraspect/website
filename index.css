@@ -4,12 +4,16 @@ body {
   color: white;
   font-family: 'Sen', sans-serif;
 }
-div {
+div#page {
   display: flex;
   justify-content: center;
   align-items: center;
   height: 100vh;
   width: 100vw;
+}
+div#block {
+  display: block;
+  text-align: center;
 }
 img {
   width: 62vw;
