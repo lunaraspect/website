@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Sen&display=swap');
+body {
+  background: black;
+  color: white;
+  font-family: 'Sen', sans-serif;
+}
+div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100vw;
+}
+img {
+  width: 62vw;
+}
